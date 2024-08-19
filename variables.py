@@ -30,7 +30,7 @@ class Config(object):
     DB_NAME = "cluster0"
 
     # Bot token
-    TOKEN = "7231833476:AAGSztw37Jk7xZX8E10-DQkp1aN2-y_gVJ0"  # Get bot token from @BotFather on Telegram
+    TOKEN = "7287471605:AAGP4g-5aI41I7j2zQCjP7yhZea5N_tb_BE"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
     OWNER_ID = 5585016974
