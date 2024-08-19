@@ -21,8 +21,7 @@ class Config(object):
     MESSAGE_DUMP = -1002078429106
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
-
+    MONGO_DB_URI = "mongodb+srv://Umaid:umaid2008@cluster0.4pofs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Support chat and support ID
     SUPPORT_CHAT = "Pika_Discussion"
     SUPPORT_ID = -1002141181899
